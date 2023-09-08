@@ -1,0 +1,34 @@
+/* .wrapper {
+    display: flex;
+    border: 1px solid;
+}
+
+.profile-image {
+    height: 150px;
+}
+
+.profile-content {
+
+}
+
+.profile-item {
+    display: flex;
+} */
+
+.wrapper {
+    display: flex;
+    border: 1px solid;
+}
+
+.profile-image {
+    height: 200px;
+}
+
+.profile-content {
+
+}
+
+
+.profile-item {
+    display: flex;
+}
